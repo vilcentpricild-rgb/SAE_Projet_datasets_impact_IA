@@ -9,7 +9,7 @@ Analyse Statistique de l’Impact Global de l’IA sur Divers Secteurs d’Activ
 ## Description
 
 Ce projet a pour objectif d'analyser un jeu de données mesurant l’impact de l’IA sur divers secteurs à l'aide du langage **R**.
-Il comprend le nettoyage des données, l'exploration statistique et la visualisation des résultats.
+Il comprend le nettoyage des données, l'exploration statistique et la visualisation des résultats structuré en 4 lots.
 
 ---
 
