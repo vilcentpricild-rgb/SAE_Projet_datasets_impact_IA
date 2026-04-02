@@ -57,7 +57,7 @@ git clone https://github.com/ton-pseudo/ton-repo
 
 2. Ouvre RStudio et charge le script principal :
 ```r
-source("scripts/mon_script.R")
+source("scripts/Script_R_SAE_Projet.R")
 ```
 
 ---
