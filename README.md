@@ -26,11 +26,10 @@ Il comprend le nettoyage des données, l'exploration statistique et la visualisa
 ## Structure du projet
 
 ```
-mon-projet/
-├── data/           → Jeux de données bruts et nettoyés
-├── scripts/        → Scripts R
-├── outputs/        → Graphiques et résultats
-└── README.md       → Présentation du projet
+Lot 1 : Initialisation et Préparation            → Jeux de données bruts et nettoyés
+Lot 2 : Exploration et Statistiques Univariées   → Scripts R
+Lot 3 : Analyse Bivariée et Corrélations         → Graphiques et résultats
+Lot 4 : Analyse Avancée et Restitution           → Présentation du projet
 ```
 
 ---
