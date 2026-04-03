@@ -52,7 +52,7 @@ install.packages(c("tidyverse", "ggplot2", "dplyr"))
 
 1. Clone le repository :
 ```bash
-git clone https://github.com/ton-pseudo/ton-repo
+git clone https://github.com/vilcentpricild-rgb/SAE-Projet-datasets-impact-IA
 ```
 
 2. Ouvre RStudio et charge le script principal :
