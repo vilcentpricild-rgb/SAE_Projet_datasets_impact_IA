@@ -1,4 +1,4 @@
-# SA-Projet---datasets-impact-IA-
+# SAE-Projet-datasets-impact-IA
 Analyse Statistique de l’Impact Global de l’IA sur Divers Secteurs d’Activité (2020-2025)
 [README.md](https://github.com/user-attachments/files/26449500/README.md)# Projet d'Analyse de Données
 
