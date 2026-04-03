@@ -14,7 +14,7 @@ Il comprend le nettoyage des données, l'exploration statistique et la visualisa
 
 ## Équipe
 
-| Prénom Nom | Rôle |
+| Prénom | Rôle |
 |------------|------|
 | Amour  | Chef de projet |
 | Mandy   | Data Analyst |
@@ -50,12 +50,12 @@ install.packages(c("tidyverse", "ggplot2", "dplyr"))
 
 ## Lancer le projet
 
-1. Clonez le repository :
+1. Cloner le repository :
 ```bash
 https://github.com/vilcentpricild-rgb/SAE_Projet_datasets_impact_IA
 ```
 
-2. Ouvrir RStudio et charge le script principal :
+2. Ouvrir RStudio et charger le script principal :
 ```r
 source("scripts/Script_R_SAE_Projet.R")
 ```
