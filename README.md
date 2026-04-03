@@ -33,6 +33,8 @@ Lot 4 : Analyse Avancée et Restitution           → Présentation du projet
 ```
 
 ---
+## Dataset Nettoyé 
+> [Complet](Script_R_SAE_Projet.R)
 
 ## Prérequis
 
@@ -48,12 +50,12 @@ install.packages(c("tidyverse", "ggplot2", "dplyr"))
 
 ## Lancer le projet
 
-1. Clone le repository :
+1. Clonez le repository :
 ```bash
 https://github.com/vilcentpricild-rgb/SAE_Projet_datasets_impact_IA
 ```
 
-2. Ouvre RStudio et charge le script principal :
+2. Ouvrir RStudio et charge le script principal :
 ```r
 source("scripts/Script_R_SAE_Projet.R")
 ```
@@ -61,6 +63,7 @@ source("scripts/Script_R_SAE_Projet.R")
 ---
 
 ## Résultats
+
 > ![Obs/Secteurs](outputs/Repartition_des_observations_par_Secteur.png)
 > ![Adoption de l'IA](outputs/Analyse_de_la_correlation_Talent_vs_Adoption.png)
 > ![Confiance envers l'IA](outputs/La_regulation_influence_t_elle_la_confiance.png)
