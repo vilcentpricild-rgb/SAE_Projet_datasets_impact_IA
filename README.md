@@ -12,17 +12,6 @@ Il comprend le nettoyage des données, l'exploration statistique et la visualisa
 
 ---
 
-## Équipe
-
-| Prénom | Rôle |
-|------------|------|
-| Amour  | Chef de projet |
-| Mandy   | Data Analyst |
-| Nassim   | Data Scientist |
-| Pricild   | Chargé de communication |
-
----
-
 ## Structure du projet
 
 ```
